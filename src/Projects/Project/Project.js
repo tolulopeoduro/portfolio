@@ -3,7 +3,7 @@ import styles from './Project.module.css'
 
 const Project = (props) => {
     return (
-        <a className={styles.project} href = {props.link} target='_blank' rel='noopener'>
+        <a className={styles.project} href = {props.link} target='_blank' rel='noreferrer'>
             <div className={styles.image} style={{backgroundImage : `url(${props.src})`}}>
             </div>
             <div className={styles.details}>
