@@ -1,0 +1,19 @@
+.projects {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-top: 55px;
+    background-color: #192728;
+}
+
+h3 {
+    align-self: center;
+    color: aliceblue;
+}
+
+
+.project-list {
+    display: flex;
+    margin-top: 60px;
+    justify-content: space-evenly;
+}

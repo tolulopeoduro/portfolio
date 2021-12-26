@@ -1,0 +1,27 @@
+.intro {
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.box {
+    height: 60%;
+    width: 60%;
+    background-color: #fff;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+    box-sizing: border-box;
+    padding-top: 40px;
+    padding-left: 40px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+p {
+    margin-top: 30px;
+    font-size: 25px;
+}
