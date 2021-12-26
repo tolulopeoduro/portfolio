@@ -5,7 +5,7 @@
     border-radius: 16px;
     display: flex;
     flex-direction: column;
-    justify-content: start;
+    justify-content: flex-start;
     transition: all 200ms;
 }
 
