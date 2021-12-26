@@ -6,7 +6,7 @@
 }
 
 .box {
-    height: 60%;
+    height: auto;
     width: 60%;
     background-color: #fff;
     border-radius: 12px;
@@ -30,7 +30,7 @@ p {
 
     .box {
         width: 90%;
-        height: 300px;
+        height: auto;
     }
 
     h1 {
