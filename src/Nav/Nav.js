@@ -6,9 +6,9 @@ const Nav = () => {
             <div className={styles.nav_container}>
                     <div className={styles.logo}>T</div>
                     <div className={styles.links}>
-                        <a href='#'>about</a>
-                        <a href='#'>portfolio</a>
-                        <a href='#'>contact</a>
+                        <a href='/#about'>about</a>
+                        <a href='/#projects'>Projects</a>
+                        <a href='/#contact'>contact</a>
                     </div>
             </div>
         
