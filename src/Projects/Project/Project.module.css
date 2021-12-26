@@ -41,3 +41,19 @@
     font-size: 25px;
     margin-top: 12px;
 }
+
+@media (max-width: 1400px) {
+    .project {
+        height: 200px;
+        width: 250px;
+    }
+
+    .project:hover {
+        height: 250px;
+        width: 300px;
+    }
+    
+    .project:hover > .image {
+        height: 280px;
+    }
+}

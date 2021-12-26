@@ -36,3 +36,8 @@
 .icon:hover {
     font-size: 60px;
 }
+
+
+@media (max-width: 600px) {
+    
+}

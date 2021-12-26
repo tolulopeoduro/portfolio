@@ -12,8 +12,31 @@ h3 {
 }
 
 
+
+
 .project-list {
     display: flex;
-    margin-top: 60px;
+    margin-top: 20px;
     justify-content: space-evenly;
+}
+
+.project-list-mobile {
+    display: none;
+}
+
+
+@media only screen and (max-width: 600px) {
+    .projects {
+        height: auto;
+    }
+
+    .project-list {
+        display: none;
+    }
+
+    .project-list-mobile {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
 }
