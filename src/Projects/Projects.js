@@ -18,8 +18,8 @@ const Projects = () => {
             <div className={styles["project-list"]}>
                 <Project src = "https://res.cloudinary.com/dtuafcbbd/image/upload/v1640470479/personal/Screenshot_15.png"
                 name = "Amazon Clone" link = "https://495jc.csb.app/" />
-                <Project src = "https://res.cloudinary.com/dtuafcbbd/image/upload/v1640470479/personal/Screenshot_20.png"
-                name = "Sketch" link = "https://z5mo7.csb.app/" />
+                <Project src = "https://res.cloudinary.com/dtuafcbbd/image/upload/v1640470479/personal/Screenshot_21.png"
+                name = "Sketch" link = "https://tolulopeoduro.github.io/Etch-a-sketch/" />
             </div>
 
             <div className = {styles["project-list-mobile"]}>
